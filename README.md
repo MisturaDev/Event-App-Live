@@ -8,7 +8,7 @@
 This is the **web version** of the Event Reporting Mobile App, hosted via GitHub Pages.  
 It demonstrates the core functionality of the mobile app in a browser environment.
 
-🔗 **Live Preview**: 👉 [https://turahrae.github.io/Event-App-Live/](https://turahrae.github.io/Event-App-Live/)
+🔗 **Live Preview**: 👉 [View Live](https://misturadev.github.io/Event-App-Live/)
 
 ## 🌟 Features
 
@@ -30,8 +30,8 @@ like `config.xml`, plugins or platforms.
 
 ## 👩‍💻 Author
 
-**Mistura Ishola (Turah Rae)**  
-🔗 [GitHub](https://github.com/TurahRae) | [LinkedIn](https://www.linkedin.com/in/mistura-ishola)
+**Mistura Ishola**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mistura-ishola)
 
 
 
