@@ -31,7 +31,7 @@ like `config.xml`, plugins or platforms.
 ## 👩‍💻 Author
 
 **Mistura Ishola (Turah Rae)**  
-🔗 [GitHub](https://github.com/TurahRae) | [LinkedIn](https://www.linkedin.com/in/mistura-ishola-8ab987140)
+🔗 [GitHub](https://github.com/TurahRae) | [LinkedIn](https://www.linkedin.com/in/mistura-ishola)
 
 
 
