@@ -28,7 +28,7 @@ This repository contains only the `www/` folder of the full mobile app.
 It’s used for web preview and does not include Cordova-specific files  
 like `config.xml`, plugins or platforms.
 
-## 👩‍💻 Author
+## 👩‍💻 Developer
 
 **Mistura Ishola**  
 🔗 [LinkedIn](https://www.linkedin.com/in/mistura-ishola)
